@@ -1,0 +1,470 @@
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.Form1.resources
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\bin\Debug\scale.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\bin\Debug\scale.pdb
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.pdb
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\bin\Debug\Database.mdf
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\bin\Debug\Database_log.ldf
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\bin\Debug\scale.exe.config
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.Form2.resources
+c:\users\ahmed\documents\visual studio 2010\Projects\scale\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\bin\Debug\scale.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.exe
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.pdb
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\bin\Debug\Database.mdf
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\bin\Debug\Database_log.ldf
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\bin\Debug\scale.exe
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\bin\Debug\scale.pdb
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\Interop.Office.dll
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\ahmed\Documents\Visual Studio 2010\Projects\scale - Copy\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\scale - Copy\scale\bin\Debug\scale.exe.config
+E:\scale - Copy\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\scale - Copy\scale\obj\x86\Debug\scale.exe
+E:\scale - Copy\scale\obj\x86\Debug\scale.pdb
+E:\scale - Copy\scale\bin\Debug\Database.mdf
+E:\scale - Copy\scale\bin\Debug\Database_log.ldf
+E:\scale - Copy\scale\bin\Debug\scale.exe
+E:\scale - Copy\scale\bin\Debug\scale.pdb
+E:\scale - Copy\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+E:\scale - Copy\scale\obj\x86\Debug\scale.Form1.resources
+E:\scale - Copy\scale\obj\x86\Debug\scale.Form2.resources
+E:\scale - Copy\scale\obj\x86\Debug\scale.Form3.resources
+E:\scale - Copy\scale\obj\x86\Debug\scale.Form4.resources
+E:\scale - Copy\scale\obj\x86\Debug\scale.Form5.resources
+E:\scale - Copy\scale\obj\x86\Debug\scale.Properties.Resources.resources
+E:\scale - Copy\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+G:\scale - Copy\scale\bin\Debug\scale.exe.config
+G:\scale - Copy\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+G:\scale - Copy\scale\obj\x86\Debug\scale.exe
+G:\scale - Copy\scale\obj\x86\Debug\scale.pdb
+G:\scale - Copy\scale\bin\Debug\Database.mdf
+G:\scale - Copy\scale\bin\Debug\Database_log.ldf
+G:\scale - Copy\scale\bin\Debug\scale.exe
+G:\scale - Copy\scale\bin\Debug\scale.pdb
+G:\scale - Copy\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+G:\scale - Copy\scale\obj\x86\Debug\scale.Form1.resources
+G:\scale - Copy\scale\obj\x86\Debug\scale.Form2.resources
+G:\scale - Copy\scale\obj\x86\Debug\scale.Form3.resources
+G:\scale - Copy\scale\obj\x86\Debug\scale.Form4.resources
+G:\scale - Copy\scale\obj\x86\Debug\scale.Form5.resources
+G:\scale - Copy\scale\obj\x86\Debug\scale.Properties.Resources.resources
+G:\scale - Copy\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\mizan\Desktop\scale - Copy\scale\bin\Debug\scale.exe.config
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.exe
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.pdb
+C:\Users\mizan\Desktop\scale - Copy\scale\bin\Debug\Database.mdf
+C:\Users\mizan\Desktop\scale - Copy\scale\bin\Debug\Database_log.ldf
+C:\Users\mizan\Desktop\scale - Copy\scale\bin\Debug\scale.exe
+C:\Users\mizan\Desktop\scale - Copy\scale\bin\Debug\scale.pdb
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\mizan\Desktop\scale - Copy\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\bin\Debug\scale.exe.config
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.exe
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.pdb
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\bin\Debug\Database.mdf
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\bin\Debug\Database_log.ldf
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\bin\Debug\scale.exe
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\bin\Debug\scale.pdb
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\kml\Desktop\AHMEDKAMAL\scale - Copy\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.exe.config
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.exe
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.pdb
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\bin\Debug\Database.mdf
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\bin\Debug\Database_log.ldf
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.exe
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.pdb
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\kml\Desktop\source\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+H:\sh3r\scale\bin\Debug\scale.exe.config
+H:\sh3r\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+H:\sh3r\scale\obj\x86\Debug\scale.exe
+H:\sh3r\scale\obj\x86\Debug\scale.pdb
+H:\sh3r\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+H:\sh3r\scale\obj\x86\Debug\scale.Form1.resources
+H:\sh3r\scale\obj\x86\Debug\scale.Form2.resources
+H:\sh3r\scale\obj\x86\Debug\scale.Form3.resources
+H:\sh3r\scale\obj\x86\Debug\scale.Form4.resources
+H:\sh3r\scale\obj\x86\Debug\scale.Form5.resources
+H:\sh3r\scale\obj\x86\Debug\scale.Properties.Resources.resources
+H:\sh3r\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+H:\sh3r\scale\bin\Debug\Database.mdf
+H:\sh3r\scale\bin\Debug\Database_log.ldf
+H:\sh3r\scale\bin\Debug\scale.exe
+H:\sh3r\scale\bin\Debug\scale.pdb
+E:\AHMEDKAMAL\tela\scale\bin\Debug\scale.exe.config
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.exe
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.pdb
+E:\AHMEDKAMAL\tela\scale\bin\Debug\Database.mdf
+E:\AHMEDKAMAL\tela\scale\bin\Debug\Database_log.ldf
+E:\AHMEDKAMAL\tela\scale\bin\Debug\scale.exe
+E:\AHMEDKAMAL\tela\scale\bin\Debug\scale.pdb
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.Form1.resources
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.Form2.resources
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.Form3.resources
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.Form4.resources
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.Form5.resources
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.Properties.Resources.resources
+E:\AHMEDKAMAL\tela\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+E:\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.exe.config
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.exe
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.pdb
+E:\AHMEDKAMAL\sh3r\scale\bin\Debug\Database.mdf
+E:\AHMEDKAMAL\sh3r\scale\bin\Debug\Database_log.ldf
+E:\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.exe
+E:\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.pdb
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form1.resources
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form2.resources
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form3.resources
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form4.resources
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form5.resources
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Properties.Resources.resources
+E:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+I:\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.exe.config
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.exe
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.pdb
+I:\AHMEDKAMAL\sh3r\scale\bin\Debug\Database.mdf
+I:\AHMEDKAMAL\sh3r\scale\bin\Debug\Database_log.ldf
+I:\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.exe
+I:\AHMEDKAMAL\sh3r\scale\bin\Debug\scale.pdb
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form1.resources
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form2.resources
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form3.resources
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form4.resources
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form5.resources
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Properties.Resources.resources
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+I:\AHMEDKAMAL\sh3r\scale\obj\x86\Debug\scale.Form6.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\bin\Debug\scale.exe.config
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.exe
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.pdb
+I:\AHMEDKAMAL\sh3r - Copy\scale\bin\Debug\Database.mdf
+I:\AHMEDKAMAL\sh3r - Copy\scale\bin\Debug\Database_log.ldf
+I:\AHMEDKAMAL\sh3r - Copy\scale\bin\Debug\scale.exe
+I:\AHMEDKAMAL\sh3r - Copy\scale\bin\Debug\scale.pdb
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form1.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form2.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form3.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form4.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form5.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form6.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Properties.Resources.resources
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+I:\AHMEDKAMAL\sh3r - Copy\scale\obj\x86\Debug\scale.Form33.resources
+H:\win\scale\bin\Debug\scale.exe.config
+H:\win\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+H:\win\scale\obj\x86\Debug\scale.exe
+H:\win\scale\obj\x86\Debug\scale.pdb
+H:\win\scale\bin\Debug\Database.mdf
+H:\win\scale\bin\Debug\Database_log.ldf
+H:\win\scale\bin\Debug\scale.exe
+H:\win\scale\bin\Debug\scale.pdb
+H:\win\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+H:\win\scale\obj\x86\Debug\scale.Form1.resources
+H:\win\scale\obj\x86\Debug\scale.Form2.resources
+H:\win\scale\obj\x86\Debug\scale.Form3.resources
+H:\win\scale\obj\x86\Debug\scale.Form33.resources
+H:\win\scale\obj\x86\Debug\scale.Form4.resources
+H:\win\scale\obj\x86\Debug\scale.Form5.resources
+H:\win\scale\obj\x86\Debug\scale.Form6.resources
+H:\win\scale\obj\x86\Debug\scale.Properties.Resources.resources
+H:\win\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+I:\win\scale\bin\Debug\scale.exe.config
+I:\win\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+I:\win\scale\obj\x86\Debug\scale.exe
+I:\win\scale\obj\x86\Debug\scale.pdb
+I:\win\scale\bin\Debug\scale.exe
+I:\win\scale\bin\Debug\scale.pdb
+I:\win\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+I:\win\scale\obj\x86\Debug\scale.Form1.resources
+I:\win\scale\obj\x86\Debug\scale.Form2.resources
+I:\win\scale\obj\x86\Debug\scale.Form3.resources
+I:\win\scale\obj\x86\Debug\scale.Form33.resources
+I:\win\scale\obj\x86\Debug\scale.Form4.resources
+I:\win\scale\obj\x86\Debug\scale.Form5.resources
+I:\win\scale\obj\x86\Debug\scale.Form6.resources
+I:\win\scale\obj\x86\Debug\scale.Properties.Resources.resources
+I:\win\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\ميزان احتياطي\Desktop\win\scale\bin\Debug\Database.mdf
+C:\Users\ميزان احتياطي\Desktop\win\scale\bin\Debug\Database_log.ldf
+C:\Users\ميزان احتياطي\Desktop\win\scale\bin\Debug\scale.exe.config
+C:\Users\ميزان احتياطي\Desktop\win\scale\bin\Debug\scale.exe
+C:\Users\ميزان احتياطي\Desktop\win\scale\bin\Debug\scale.pdb
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form33.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Form6.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.exe
+C:\Users\ميزان احتياطي\Desktop\win\scale\obj\x86\Debug\scale.pdb
+I:\win\scale\bin\Debug\2\Database.mdf
+I:\win\scale\bin\Debug\2\Database_log.ldf
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\bin\Debug\scale.exe.config
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.exe
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.pdb
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\bin\Debug\2\Database.mdf
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\bin\Debug\2\Database_log.ldf
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\bin\Debug\scale.exe
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\bin\Debug\scale.pdb
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form33.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Form6.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\kml\OneDrive\سطح المكتب\win\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+D:\win\scale\bin\Debug\scale.exe.config
+D:\win\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+D:\win\scale\obj\x86\Debug\scale.exe
+D:\win\scale\obj\x86\Debug\scale.pdb
+D:\win\scale\bin\Debug\scale.exe
+D:\win\scale\bin\Debug\scale.pdb
+D:\win\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+D:\win\scale\obj\x86\Debug\scale.Form1.resources
+D:\win\scale\obj\x86\Debug\scale.Form2.resources
+D:\win\scale\obj\x86\Debug\scale.Form3.resources
+D:\win\scale\obj\x86\Debug\scale.Form33.resources
+D:\win\scale\obj\x86\Debug\scale.Form4.resources
+D:\win\scale\obj\x86\Debug\scale.Form5.resources
+D:\win\scale\obj\x86\Debug\scale.Form6.resources
+D:\win\scale\obj\x86\Debug\scale.Properties.Resources.resources
+D:\win\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+D:\win\scale\bin\Debug\Database.mdf
+D:\win\scale\bin\Debug\Database_log.ldf
+D:\win1\scale\bin\Debug\scale.exe.config
+D:\win1\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+D:\win1\scale\obj\x86\Debug\scale.exe
+D:\win1\scale\obj\x86\Debug\scale.pdb
+D:\win1\scale\bin\Debug\Database.mdf
+D:\win1\scale\bin\Debug\Database_log.ldf
+D:\win1\scale\bin\Debug\scale.exe
+D:\win1\scale\bin\Debug\scale.pdb
+D:\win1\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+D:\win1\scale\obj\x86\Debug\scale.Form1.resources
+D:\win1\scale\obj\x86\Debug\scale.Form2.resources
+D:\win1\scale\obj\x86\Debug\scale.Form3.resources
+D:\win1\scale\obj\x86\Debug\scale.Form33.resources
+D:\win1\scale\obj\x86\Debug\scale.Form4.resources
+D:\win1\scale\obj\x86\Debug\scale.Form5.resources
+D:\win1\scale\obj\x86\Debug\scale.Form6.resources
+D:\win1\scale\obj\x86\Debug\scale.Properties.Resources.resources
+D:\win1\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+D:\New folder\win1\scale\bin\Debug\scale.exe.config
+D:\New folder\win1\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+D:\New folder\win1\scale\obj\x86\Debug\scale.exe
+D:\New folder\win1\scale\obj\x86\Debug\scale.pdb
+D:\New folder\win1\scale\bin\Debug\Database.mdf
+D:\New folder\win1\scale\bin\Debug\Database_log.ldf
+D:\New folder\win1\scale\bin\Debug\scale.exe
+D:\New folder\win1\scale\bin\Debug\scale.pdb
+D:\New folder\win1\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form1.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form2.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form3.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form33.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form4.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form5.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Form6.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.Properties.Resources.resources
+D:\New folder\win1\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+D:\MIZAN\win1\scale\bin\Debug\scale.exe.config
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.exe
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.pdb
+D:\MIZAN\win1\scale\bin\Debug\Database.mdf
+D:\MIZAN\win1\scale\bin\Debug\Database_log.ldf
+D:\MIZAN\win1\scale\bin\Debug\scale.exe
+D:\MIZAN\win1\scale\bin\Debug\scale.pdb
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form1.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form2.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form3.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form33.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form4.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form5.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Form6.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.Properties.Resources.resources
+D:\MIZAN\win1\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+D:\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe.config
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.exe
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.pdb
+D:\MIZAN\Mizan V2.0\scale\bin\Debug\Database.mdf
+D:\MIZAN\Mizan V2.0\scale\bin\Debug\Database_log.ldf
+D:\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe
+D:\MIZAN\Mizan V2.0\scale\bin\Debug\scale.pdb
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form1.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form2.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form3.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form33.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form4.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form5.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form6.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Properties.Resources.resources
+D:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+E:\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe.config
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.exe
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.pdb
+E:\MIZAN\Mizan V2.0\scale\bin\Debug\Database.mdf
+E:\MIZAN\Mizan V2.0\scale\bin\Debug\Database_log.ldf
+E:\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe
+E:\MIZAN\Mizan V2.0\scale\bin\Debug\scale.pdb
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form1.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form2.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form3.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form33.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form4.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form5.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form6.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Properties.Resources.resources
+E:\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+D:\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe.config
+D:\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+D:\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.exe
+D:\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.pdb
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe.config
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.exe
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.pdb
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\bin\Debug\Database.mdf
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\bin\Debug\Database_log.ldf
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\bin\Debug\scale.exe
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\bin\Debug\scale.pdb
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form33.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Form6.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.0\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\bin\Debug\scale.exe.config
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.exe
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.pdb
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\bin\Debug\Database.mdf
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\bin\Debug\Database_log.ldf
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\bin\Debug\scale.exe
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\bin\Debug\scale.pdb
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form33.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Form6.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\pc\My Drive\nassargroup\MIZAN\Mizan V2.1\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+C:\Users\Public\Mizan V2.1\scale\bin\Debug\scale.exe.config
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.exe
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.pdb
+C:\Users\Public\Mizan V2.1\scale\bin\Debug\Database.mdf
+C:\Users\Public\Mizan V2.1\scale\bin\Debug\Database_log.ldf
+C:\Users\Public\Mizan V2.1\scale\bin\Debug\scale.exe
+C:\Users\Public\Mizan V2.1\scale\bin\Debug\scale.pdb
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form1.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form2.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form3.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form33.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form4.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form5.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Form6.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.Properties.Resources.resources
+C:\Users\Public\Mizan V2.1\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+E:\Mizan V2.1\scale\bin\Debug\scale.exe.config
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.exe
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.pdb
+E:\Mizan V2.1\scale\bin\Debug\Database.mdf
+E:\Mizan V2.1\scale\bin\Debug\Database_log.ldf
+E:\Mizan V2.1\scale\bin\Debug\scale.exe
+E:\Mizan V2.1\scale\bin\Debug\scale.pdb
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form1.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form2.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form3.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form33.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form4.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form5.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Form6.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.Properties.Resources.resources
+E:\Mizan V2.1\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
+E:\Mizan V2.2\scale\bin\Debug\scale.exe.config
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.csproj.ResolveComReference.cache
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.exe
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.pdb
+E:\Mizan V2.2\scale\bin\Debug\Database.mdf
+E:\Mizan V2.2\scale\bin\Debug\Database_log.ldf
+E:\Mizan V2.2\scale\bin\Debug\scale.exe
+E:\Mizan V2.2\scale\bin\Debug\scale.pdb
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.csprojResolveAssemblyReference.cache
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form1.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form2.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form3.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form33.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form4.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form5.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Form6.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.Properties.Resources.resources
+E:\Mizan V2.2\scale\obj\x86\Debug\scale.csproj.GenerateResource.Cache
